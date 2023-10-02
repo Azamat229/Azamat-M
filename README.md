@@ -1,9 +1,17 @@
-# Azamat-M
+### Hi there 👋, my name is Azamat
+#### Experienced Backend developer with 2 years of experience.
+![Experienced Backend developer with 2 years of experience.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Throughout my 2 years as a Back End developer, I managed to get a different experience:
+👨‍💻 All of my projects are available at ...
 
-- I've worked in outsourcing, outstaff and product-oriented companies.
-- I was in a leadership position at my last job and had 3 developers on my team
-- I have experience in both starting projects from scratch and working with older code.
+📫 How to reach me azamat.net.dev@gmail.com
 
-I believe I can contribute greatly to your company, not just in coding, but also in managing teams, and improving internal processes.
+📄 Know about my experiences https://www.linkedin.com/in/azamat229
+
+Skills: C# / .NET / ASP.NET Core / SQL
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
